@@ -1,0 +1,47 @@
+---
+  name: "Naman Jain"
+  position: "Senior Software Engineer"
+  company: "FundRecs"
+  location: "Waterford, Ireland"
+  email: "nmn.jain1@gmail.com"
+  gravatar: "https://www.gravatar.com/avatar/5dc10016e0e9df608f8dad74f53a69dc"
+  bio: 
+    I am Senior Software Engineer currently involved in building Velocity platform at Fundrecs. I am interested in Software Architectures especially micro services. I love to take on challenges in writing efficient algrothms. I have worked on writing software to extract data from variety of data sources like excel, text, pdf etc, architected stateless multi tenant micro service for one of the Fundrec's modules.
+  #activate the social buttons you like by removing the comment
+  social:
+    #google:
+     # url: "http://plus.google.com/+You/"
+      #text: "+You"
+      #btnClass: "btn-google"
+      #logo: "fa-google"
+    # facebook:
+    #  url: "http://facebook.com/yourid"
+    #  text: "/yourid"
+    #  btnClass: "btn-facebook"
+    #  logo: "fa-facebook"
+    twitter:
+      url: "http://twitter.com/namanbmiet"
+      text: "/namanbmiet"
+      btnClass: "btn-twitter"
+      logo: "fa-twitter"
+    # linkedin:
+    #   url: "https://www.linkedin.com/in/yourid"
+    #   text: "/yourid"
+    #   btnClass: "btn-linkedin"
+    #   logo: "fa-linkedin"
+    github:
+      url: "http://github.com/naman90"
+      text: "/naman90"
+      btnClass: "btn-github"
+      logo: "fa-github"
+    #stackoverflow:
+     # url: "http://stackoverflow.com/users/youruserid/yourid"
+     # text: "/yourid"
+     # btnClass: "btn-stackoverflow"
+     # logo: "fa-stack-overflow"
+    # soundcloud:
+    #   url: "http://soundcloud.com/yourid"
+    #   text: "/yourid"
+    #   btnClass: "btn-soundcloud"
+    #   logo: "fa-soundcloud"
+       
