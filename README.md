@@ -1,5 +1,15 @@
 # README #
 
+Undo file checked in by mistake
+
+https://www.youtube.com/watch?v=msUDPYsbABY&ab_channel=GitGuardian
+
+
+1. git reset --soft HEAD~1. - This will open up last commit and add back file to stage
+2. Now unstage wrong file individually using - git reset filepath(src/main...)
+3. git commit -m  "New commit with correct file"
+4. git push --force -  This will force remote to be exactly as local 
+
 A simple blog template for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
 
 Uses:
