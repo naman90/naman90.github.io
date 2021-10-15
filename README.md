@@ -10,6 +10,11 @@ https://www.youtube.com/watch?v=msUDPYsbABY&ab_channel=GitGuardian
 3. git commit -m  "New commit with correct file"
 4. git push --force -  This will force remote to be exactly as local 
 
+Git Rebase
+
+git rebase -i HEAD~10
+https://www.youtube.com/watch?v=gXCkYkLQ3To&ab_channel=BigBinary
+
 A simple blog template for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
 
 Uses:
