@@ -33,3 +33,8 @@ To get started:
 
 To create a post:
 * Create a **.md** or **.markdown** file in the _post directory. Add a thumbnail image for the post in the yml front matter, its shown as the post thumbnail in the homepage
+
+
+Splunk Commands 
+
+to see all values of fields in side list - <base search > | top limit=0 hosts
