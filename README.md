@@ -38,3 +38,5 @@ To create a post:
 Splunk Commands 
 
 to see all values of fields in side list - <base search > | top limit=0 hosts
+
+OSWAP Vulnerability Cheat Sheet  - https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html 
